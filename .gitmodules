@@ -1,0 +1,3 @@
+[submodule "php-openfire-restapi"]
+	path = php-openfire-restapi
+	url = https://github.com/gidkom/php-openfire-restapi
