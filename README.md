@@ -3,4 +3,9 @@ PHP-Jabber/xmpp
 31 Maret 2016
 
 Implement php for jabber service. based on openfire
-Contributor with same goal is welcome
+
+Use:
+1. PHPRestAPI,
+2. BootSTRAP
+3. Code Igniter
+4. Jquery
